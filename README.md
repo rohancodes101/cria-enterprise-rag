@@ -12,8 +12,8 @@
 ---
 
 ## 🎥 Demo & Insights
-* **Demo Video:** [Watch the Walkthrough](YOUR_LOOM_LINK)
-* **Technical Deep Dive:** [Read the Blog Post](YOUR_MEDIUM_LINK)
+* **Demo Video:** [Watch the Walkthrough](https://www.loom.com/share/3f0c8b8bcd024b5c9cade28036008a32)
+* **Technical Deep Dive:** [Read the Medium Blog Post](https://medium.com/@cnmallesh/designing-an-enterprise-grade-rag-system-to-automate-change-management-f109b3eb1de9)
 
 ---
 
